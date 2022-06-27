@@ -1,0 +1,6 @@
+{
+    "extencion": ["ts"],
+    "spec": ["homework_5/*.spec.ts"],
+    "require": ["ts-node/register"],
+    "reporter": "nyan"
+}
